@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Pluralsight_NoteKeeper</string>
+    <string name="app_name">Note Keeper</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_note">Edit Note</string>
 </resources>
